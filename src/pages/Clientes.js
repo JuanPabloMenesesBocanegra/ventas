@@ -8,7 +8,7 @@ const Clientes = () => {
   return (
     <Layout>
       <div className="panle">
-        <div className="panel-heading">Clientes</div>
+        <div className="panel-heading has-background-info-light">Clientes</div>
         <div className="box">
           <ToolbarCliente/>
           <TableCliente />

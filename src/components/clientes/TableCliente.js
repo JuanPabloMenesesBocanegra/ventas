@@ -31,8 +31,8 @@ const TableCliente = () => {
 
   return (
     <div className="table-container">
-      <table className="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-        <thead>
+      <table className="table is-bordered is-striped is-narrow is-hoverable is-fullwidth has-text-info-dark">
+        <thead className="has-background-link-light">
           <tr>
             <th>Acciones</th>
             <th>Nombre</th>

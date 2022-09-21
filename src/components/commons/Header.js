@@ -6,7 +6,7 @@ const Header = () => {
 
    return(
 
-    <div className="navbar is-primary">
+    <div className="navbar is-info">
       <div className="navbar-brand">
         <Link to ="/" className='navbar-item'>
           <img src="logo.png" alt="logo"/>

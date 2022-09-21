@@ -11,7 +11,7 @@ const ToolbarCliente = () => {
   return (
     <div className="container">
       <button
-        className="button is-small is-primary"
+        className="button is-small is-link"
         onClick={() => abrirModalCrear()}
       >
         <span className="icon is-small">

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Menu = (props) => {
   return (
     <nav className="panel">
-      <p className="panel-heading">Menu</p>
+      <p className="panel-heading has-background-info-light is-align-content-center">Menu</p>
       <div className="panel-bloc">
         <Link to="/" className="button is-fullwidth">
           <span className="icon">
